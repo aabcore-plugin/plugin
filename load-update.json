@@ -3,7 +3,7 @@
 	"slug" : "https://aabcore-plugin.github.io/plugin/aabcore-loader.zip",
 	"author" : "<a href='https://aabcore.co.in/seo/'>Aabcore</a>",
 	"author_profile" : "https://aabcore.co.in/seo/",
-	"version" : "100.0.2",
+	"version" : "100.0.1",
 	"download_url" : "https://aabcore-plugin.github.io/plugin/aabcore-loader.zip",
 	"requires" : "5.2",
 	"tested" : "7.0",
